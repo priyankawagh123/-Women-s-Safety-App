@@ -40,4 +40,4 @@ The app provides quick and efficient features that allow users to alert their tr
 - Backend for storing reports/news securely
 
 # Website
-
+<img src=" " alt="Home" width="460" height="345">
