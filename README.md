@@ -13,6 +13,14 @@ The app provides quick and efficient features that allow users to alert their tr
 - <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/news.html">News</a> - Users can upload or read daily safety news/articles.
 - <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/safety.html">Safety Tips</a> -	Share and view short safety videos or YouTube links.
 
-# Purpose:
+# How It Works
+- Static Website built using HTML, CSS, and JavaScript.
 
+- Modular Pages for news, rights, safety, reports, and videos.
+
+- Educational Resource for women and general public safety awareness.
+
+- Interactive Forms to simulate input (e.g., news uploads, video links).
+
+# Purpose:
 - This project was created to raise awareness and offer practical safety solutions for women using web technologies. It showcases frontend development, API integration, and responsive design.
