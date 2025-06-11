@@ -27,7 +27,14 @@ The app provides quick and efficient features that allow users to alert their tr
 
  - Covers multiple safety dimensions: legal, physical, digital.
 
- - Great for learning front-end development with a purpose.
-
 # Purpose:
 - This project was created to raise awareness and offer practical safety solutions for women using web technologies. It showcases frontend development, API integration, and responsive design.
+
+# Feedback & Collaboration
+**Feel free to fork this project, suggest improvements, or collaborate on new features like:**
+
+- Real-time emergency alert integration
+
+- Maps & location tracking
+
+- Backend for storing reports/news securely
