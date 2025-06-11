@@ -40,4 +40,4 @@ The app provides quick and efficient features that allow users to alert their tr
 - Backend for storing reports/news securely
 
 # Website
-<img src="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Page_img/home_page.png" alt="Home" width="460" height="345">
+<img src="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Page_img/home_page.png" alt="Home" width=100%>
