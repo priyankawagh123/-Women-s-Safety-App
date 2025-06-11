@@ -39,5 +39,24 @@ The app provides quick and efficient features that allow users to alert their tr
 
 - Backend for storing reports/news securely
 
-# Website
+# Home Page
 <img src="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Page_img/home_page.png" alt="Home" width=100%>
+
+# Contact Page
+<img src="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Page_img/contact_page.png" alt="Home" width=100%>
+
+# About Page
+<img src="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Page_img/about_page.png" alt="Home" width=100%>
+
+# Self Defence Page
+<img src="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Page_img/defense_page.png" alt="Home" width=100%>
+
+# Reports Page
+<img src="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Page_img/report_page1.png" alt="Home" width=100%>
+<img src="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Page_img/report_page2.png" alt="Home" width=100%>
+
+# Important Rights
+<img src="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Page_img/rights_page.png" alt="Home" width=100%>
+
+# New
+<img src="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Page_img/news_page.png" alt="Home" width=100%>
