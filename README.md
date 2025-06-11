@@ -4,7 +4,7 @@ The app provides quick and efficient features that allow users to alert their tr
 
 
 # Key Features
-- <a href="[index.html](https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/index.html)">Home</a> - Introduction to the app with a simple UI and navigation menu.
+- <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/index.html">Home</a> - Introduction to the app with a simple UI and navigation menu.
 - <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/contact.html">Contact</a> - Page to connect with support teams or provide feedback.
 - <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/about.html">About</a> - Brief about the app’s mission to empower women.
 - <a href="https://github.com/priyankawagh123/-Women-s-Safety-App/blob/main/Project_files/selfDefence.html">Self-Defense</a> -	Watch or share self-defense videos and tutorials.
