@@ -4,7 +4,7 @@ The app provides quick and efficient features that allow users to alert their tr
 
 
 # Key Features
-- <a href="">Home</a>(index.html)	- Introduction to the app with a simple UI and navigation menu.
+- <a href="index.html">Home</a>(index.html)	- Introduction to the app with a simple UI and navigation menu.
 - <a href="">Contact</a> (contact.html) - Page to connect with support teams or provide feedback.
 - <a href="">About</a> (about.html) - Brief about the app’s mission to empower women.
 - <a href="">Self-Defense</a> (selfDefence.html) -	Watch or share self-defense videos and tutorials.
