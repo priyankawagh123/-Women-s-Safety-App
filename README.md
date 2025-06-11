@@ -4,14 +4,14 @@ The app provides quick and efficient features that allow users to alert their tr
 
 
 # Key Features
-- Home (index.html)	- Introduction to the app with a simple UI and navigation menu.
-- Contact (contact.html) - Page to connect with support teams or provide feedback.
-- About (about.html) - Brief about the app’s mission to empower women.
-- Self-Defense (selfDefence.html) -	Watch or share self-defense videos and tutorials.
-- Reports (reports.html) - Enables users to report incidents (simulated).
-- Rights (rights.html) - Information on legal rights and laws to handle harassment.
-- News (news.html) - Users can upload or read daily safety news/articles.
-- Safety Tips (safety.html) -	Share and view short safety videos or YouTube links.
+- <a href="">Home</a>(index.html)	- Introduction to the app with a simple UI and navigation menu.
+- <a href="">Contact</a> (contact.html) - Page to connect with support teams or provide feedback.
+- <a href="">About</a> (about.html) - Brief about the app’s mission to empower women.
+- <a href="">Self-Defense</a> (selfDefence.html) -	Watch or share self-defense videos and tutorials.
+- <a href="">Reports</a> (reports.html) - Enables users to report incidents (simulated).
+- <a href="">Rights</a> (rights.html) - Information on legal rights and laws to handle harassment.
+- <a href="">News</a> (news.html) - Users can upload or read daily safety news/articles.
+- <a href="">Safety Tips</a> (safety.html) -	Share and view short safety videos or YouTube links.
 
 # Purpose:
 
