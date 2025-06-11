@@ -22,5 +22,12 @@ The app provides quick and efficient features that allow users to alert their tr
 
 - Interactive Forms to simulate input (e.g., news uploads, video links).
 
+# Why This Project Stands Out
+ - Designed with user awareness and social impact in mind.
+
+ - Covers multiple safety dimensions: legal, physical, digital.
+
+ - Great for learning front-end development with a purpose.
+
 # Purpose:
 - This project was created to raise awareness and offer practical safety solutions for women using web technologies. It showcases frontend development, API integration, and responsive design.
