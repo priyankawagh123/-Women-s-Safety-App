@@ -3,28 +3,15 @@ A web-based safety app for women that enables real-time location sharing, SOS al
 The app provides quick and efficient features that allow users to alert their trusted contacts when they feel unsafe.
 
 
-# Key Features:
-
-- Emergency Alert Button – Instantly sends the user’s location to pre-saved emergency contacts.
-
-- Live Location Tracking – Uses the browser's GPS to fetch and share real-time location.
-
-- User-Friendly Interface – Simple and responsive UI for quick access on both mobile and desktop.
-
-- Custom Contact Setup – Users can set emergency contact numbers to receive alerts.
-
-- Google Maps Integration – Displays user’s live location on the map.
-
-
-
-# Technologies Used:
-
-- HTML, CSS, JavaScript
-
-- Google Maps API
-
-- Geolocation API
-
+# Key Features
+- Home (index.html)	- Introduction to the app with a simple UI and navigation menu.
+- About (about.html) - Brief about the app’s mission to empower women.
+- Contact (contact.html) - Page to connect with support teams or provide feedback.
+- News (news.html) - Users can upload or read daily safety news/articles.
+- Reports (reports.html) - Enables users to report incidents (simulated).
+- Rights (rights.html) - Information on legal rights and laws to handle harassment.
+- Safety Tips (safety.html) -	Share and view short safety videos or YouTube links.
+- Self-Defense (selfDefence.html) -	Watch or share self-defense videos and tutorials.
 
 
 # Purpose:
