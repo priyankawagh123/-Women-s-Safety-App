@@ -5,28 +5,28 @@ The app provides quick and efficient features that allow users to alert their tr
 
 # Key Features:
 
--Emergency Alert Button – Instantly sends the user’s location to pre-saved emergency contacts.
+- Emergency Alert Button – Instantly sends the user’s location to pre-saved emergency contacts.
 
--Live Location Tracking – Uses the browser's GPS to fetch and share real-time location.
+- Live Location Tracking – Uses the browser's GPS to fetch and share real-time location.
 
--User-Friendly Interface – Simple and responsive UI for quick access on both mobile and desktop.
+- User-Friendly Interface – Simple and responsive UI for quick access on both mobile and desktop.
 
--Custom Contact Setup – Users can set emergency contact numbers to receive alerts.
+- Custom Contact Setup – Users can set emergency contact numbers to receive alerts.
 
--Google Maps Integration – Displays user’s live location on the map.
+- Google Maps Integration – Displays user’s live location on the map.
 
 
 
 # Technologies Used:
 
--HTML, CSS, JavaScript
+- HTML, CSS, JavaScript
 
--Google Maps API
+- Google Maps API
 
--Geolocation API
+- Geolocation API
 
 
 
-Purpose:
+# Purpose:
 
-This project was created to raise awareness and offer practical safety solutions for women using web technologies. It showcases frontend development, API integration, and responsive design.
+- This project was created to raise awareness and offer practical safety solutions for women using web technologies. It showcases frontend development, API integration, and responsive design.
